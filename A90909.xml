@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Powtheram Castle at Exeter, taken by Sir Thomas Fairfax: in which was the governour, a major, and 120. inferiour officers, and common souldiers, 5. barrels of gun-powder taken. With great store of match, and bullet, and all the princes arms and ammunition therein. Sir Richard Greenvil taken prisoner at Langsdown in Cornwall, and Tothill horse taken by Sir Thomas Fairfax, also, forty horse taken in persuit of the enemy. With the Lord Wentworth's letter, and a copy of the Scout-Master Generals letter; and other letters taken, that were sent from Prince Charles to the King. Commanded to bee printed, and is published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90909</idno><idno type="EEBO-CITATION">99861279</idno>
+  <idno type="VID">113410</idno>
+  <idno type="EEBO-PROQUEST">2240890697</idno>
+  
+            <idno type="STC">Wing P3117</idno>
+            <idno type="STC">Thomason E319_22</idno>
+            <idno type="STC">ESTC R200562</idno>
+            <idno type="PROQUEST">99861279</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861279e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113410)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E319[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Powtheram Castle at Exeter, taken by Sir Thomas Fairfax: in which was the governour, a major, and 120. inferiour officers, and common souldiers, 5. barrels of gun-powder taken. With great store of match, and bullet, and all the princes arms and ammunition therein. Sir Richard Greenvil taken prisoner at Langsdown in Cornwall, and Tothill horse taken by Sir Thomas Fairfax, also, forty horse taken in persuit of the enemy. With the Lord Wentworth's letter, and a copy of the Scout-Master Generals letter; and other letters taken, that were sent from Prince Charles to the King. Commanded to bee printed, and is published according to order.</title>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe;,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 5-8 misnumbered 3-6.</note>
+                  <note>Annotation on Thomason copy: "Jan: 31"; the second 6 in imprint date crossed out altered to 5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Powderham Castle (England) --  Siege, 1646 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Exeter (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113410:1"/>
+            <p>Powtheram Castle <hi>AT</hi> EXETER, TAKEN BY SIR <hi>THOMAS FAIRFAX:</hi> IN WHICH Was the Governour, a Major, and 120. Inferiour Officers, and common Souldiers, 5. Barrels of Gun-powder taken. With great store of Match, and Bullet, and all the Princes Arms and Ammunition therin. Sir <hi>Richard Greenvil</hi> taken Prisoner at <hi>Langsdown</hi> in <hi>Cornwall,</hi> and <hi>Tothill</hi> Horse taken by Sir <hi>Thomas Fairfax,</hi>
+            </p>
+            <p>Also, forty horse taken in persuit of the Enemy. With the Lord <hi>Wentworth's</hi> Letter, and a Copy of the Scout-Master Generals Letter; And other Letters taken, that were sent from Prince CHARLES to the KING.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Commanded to bee Printed, and is Published according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London, Printed by</hi> JANE COE; 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113410:2"/>
+            <pb n="3" facs="tcp:113410:2"/>
+            <head>THE COPIE OF A <hi>LETTER</hi> From a Gentleman of note, dated <hi>at the Generalls Head QVARTERS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Cannot vomit so fair an opportunity, but shall give you a word or two of intelligence of the State of our affaires here with us, On the five and twentith of this month the Generall marched in the after noone, from <hi>Wenton Bushel towards</hi> Powderam Castle, <hi>where Collonel</hi> Hammand <hi>was with his Regiment, and that day he sent in a summons to the Castle; they consented to it, and surrendred up the Castle upon these tearmes, to march every man to his one home, leaving all their Arms &amp; Ammunition. Provisions they had but small store in the Castle. Now our next designe will be for Exeter, our forces are drawing thither very fast for the blocking of it up, and hindering Provisions from going into the City; I make no question but in a short time a good account will be given of that p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace. From the West we have intelligence that</hi> Greenvill <hi>is clapt up in prison; for refusing to obey the Princes orders, and</hi> Hopton <hi>Commander in chiefe. Other news I have not but rest.</hi>
+            </p>
+            <closer>
+               <dateline>Chidley <date>the 26. of Ianuarie <hi>1646.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:113410:3"/>
+            <head>The Copie of another Letter from one of the Clerkes belonging to the Generall.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THe expectation I had of something worthy your perusall, occasioned my pretermission and writing at my first coming downe, yet that I may not seeme for<g ref="char:EOLhyphen"/>getfull of you, to whom I am so deepely ingaged; I have addressed these few lines unto you, wherein I shall give you as full a view of our proceedings as my short abode in the Army will furnish me withall. Y sterday being the Lords day Ian. the 25. the Generall and Lieutenant Generall, with a party of Horse marched from the Lady Reynolds house neere Newton Bushel to Chirly, where the Generall soone after his coming received intelligence of the surrender of Powtheram Castle within 3. miles of Exeter that afterno one to Collonel Hammond, the conditions were, that the Governor, Major Fletcher, and the Souldiers therein should march to their own homes: there were in it 120. Souldiers, we have taken there 120. Armes, 4. Horses, 5. Barrells of Powder; Match and Bullet proportionable, but no quantity at all of Provisi<g ref="char:EOLhyphen"/>on left: from thence Collonel Hammond, intends against Poutheram Fort a strong hold of the enemies upon the River neere Exeter, in which are severall peeces of Or<g ref="char:EOLhyphen"/>dinance (for there were none in the Castle) 150. men, whereof 50. got in out of Exeter on Saturday night; we understand by some that came out, that they have no great store of Provision; so that I doubt not but we
+<pb n="3" facs="tcp:113410:3"/>shall be shortly in possession of that, and then for Exe<g ref="char:EOLhyphen"/>ter.</p>
+            <p>The intelligence yesterday from the enemy in Corn<g ref="char:EOLhyphen"/>wall was, that their head quarters and yet at Holsworthy, their Guards at Haintone Church, and Shepwash bridge as formerly, Munkligh, Frethelstoke, and Padstow are full of them; Their quarters are so eaten up that they are inforced to feede their labouring Cattel with Batley<g ref="char:EOLhyphen"/>straw.</p>
+            <p>The enemy say they must breake through to the King whatsoever hazard they run; the Towne of Holsworthy is almost ruined, by their plunder, quarter and fiering their Housholdstuffe, Collonel Finches Regiment is drawne Northward toward Bediford, and Barstable, as also those from Thornebery, Bradbery and Cookbery, there was a talke amongst them as though they should draw off their guard from Hoynton the 25. Instant, Bar<g ref="char:EOLhyphen"/>stable-Bridge; with the whole frame fallen downe, so that from the West there is no passage neerer then Brightley.</p>
+            <p>Yesterday there came a Drummer from Exeter to the Generall, about exchange of prisoners; he boasts very much of the strength of the City, That they are raising new Regiments, with five Knights in a Regiment, That a Regiment of Foot went lately out of Exeter to Oxford, and such like ridiculous stories; but upon the gaining of Powtherham Fort, which the Generall is now going to view: The next attempt will be upon Exeter, which can<g ref="char:EOLhyphen"/>not hold out long, salt was at fifteen shillings a bushell, and butter 16. d. a l. above a month a goe, and wood very scarce.</p>
+            <pb n="4" facs="tcp:113410:4"/>
+            <p>Our forces are quartered at Affington, at Mrs. Peters house, and at Mr. Tothills house at Plymouth, (2. Ga<g ref="char:EOLhyphen"/>risons which the enemy quit upon the approach of our forces) and other places within a mile or a mile and halfe of the City; we give the enemy Alarme every night and take their Horse as they offer to peepe out, our Guards at Stafferton (Sir Robert Pyes Troope as I take it) tooke 10. Horse on Saturday night last, and others tooke as many as made them 40 in all, the Generall will shortly summon the City, and then the issue will soone appeare, if they refuse a faire offer they are like to have no better conditions then those at Dartmouth that were most obstinate. Collonel Rouse is made Governor of Dartmouth, 500. Plymouth Foote are come thither, &amp; Colonell <hi>Lamberts</hi> regiment of foot drawn forth and up<g ref="char:EOLhyphen"/>on their march, their quarters is appointed at Totnes, and Collonel Fortescues Regiment, (who are now there at Newton-Enshell, Collonel Ingoldesbyes at Chidley, in Hardresse, Waller still keepes his guards at Crediton. Iust now we heate for certaine, that Greenvill was on Thursday last apprehended at Lansdowne in Cornwall, by command from the Prince, and carried prisoner to Pendennis Castle; Hopton is now General of the West. Sir Thomas hath sent up to Mr. Speaker divers Letters of great concernment, which were intercepted going to his Maiestie from the Princes Commanders, the Go<g ref="char:EOLhyphen"/>ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our of Exeter, and others; most of them are written in Ciphers, but the sence of them may be easily pickt out, the effect thus: To let them know that Exeter must of necessitie be relieved, or else, &amp;c.</p>
+            <p>That the Prince (according to the Kings Command) is in the Head of an Armie for that purpose; relating also
+<pb n="5" facs="tcp:113410:4"/>the state of Exeter, and other private resolutions concer<g ref="char:EOLhyphen"/>ning the Prince and his forces in the West.</p>
+            <p>At the meeting at Tornes on Satterday last, many Gentlemen of Devonshire, declared their willingnesse to raise Forces for the Parliament: upon which the Ge<g ref="char:EOLhyphen"/>nerall hath granted a Commission to one Mr. Vowell to be a Gollonel, to raise a Regiment, and the like to other Officers under him, till the Parliament shall take further order therein,</p>
+            <p>Sir, I cease to trouble you further with these rude and indigested lines; I shall hereafter acquaint you with pas<g ref="char:EOLhyphen"/>sages here, upon all occasions,</p>
+            <closer>
+               <dateline>
+                  <hi>Chedley,</hi>
+                  <date>
+                     <hi>Jan.</hi> 26. 1645.</date>
+               </dateline>
+               <signed>Your most obliged Servant, <hi>W. C.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Postscript.</head>
+               <p>This day the Generall hath summoned Powderham Fort; some other Letters were this day intercepted from the Enemy: the Copy of one is thus,</p>
+               <p>To his honoured Friends Quartermaster <hi>Vpton,</hi> Captain <hi>Reymond,</hi> or either of them, at the <hi>Swan</hi> in <hi>Exon,</hi> these, &amp;c.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>HAving so fit an opportunitie, I could not misse to send you what Newes is with us; Lord Hopton is made Generall of all: Sir Richard Greenvill is commit<g ref="char:EOLhyphen"/>ted by him for disobeying Orders; We hear Dartmouth hath beaten off the Enemy twice, and killed many. Mr.
+<pb n="6" facs="tcp:113410:5"/>Padage is come from my Lord Goring, and is returning again with his Lordships horses: he saith my Lord will be here suddenly with an Army.</p>
+                     <p>His Highnesse is in Launceston, our Head-quarters at Holsworthy, Major Generall Webbs at Thornborow; if there be any thing wherein I can serve Sir Ioseph, or either of you in these parts, you may send it by this bea<g ref="char:EOLhyphen"/>ter: Sir, I am</p>
+                     <closer>
+                        <dateline>
+                           <hi>Holsworthy,</hi>
+                           <date>
+                              <hi>Ian.</hi> 23. 1645,</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your most humble, and faithfull servant.</hi> JOHN JOHNSON, <hi>Scout. Master Generall.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Besides this, there was a Letter intercepted from the Lord Wentworth, to the like effect, and confirming much of the former Relations.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The substance of the Lord <hi>Wentworths</hi> Letter.</head>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Presume publique report hath brought you the newes of the Lord Hoptons being made Generall to the Prince for this present expedition, and to that I, and our Officers have agreed upon debate, and that wee doe not conceive it to the prejudice of our old Generals right at his return. Sir Richard Greenvill is committed, for refu<g ref="char:EOLhyphen"/>fing to obey the Princes Orders: what we intend to do, I have written in Cyphers to Sir Iohn Barkley.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Holsworthy,</hi>
+                           <date>
+                              <hi>Ian.</hi> 23. 1645.</date>
+                        </dateline>
+                        <signed>WENTVVORTH.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
